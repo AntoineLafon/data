@@ -1,0 +1,2 @@
+poisson_30000/stddev_0.01/egea_30000_stddev0.01.xyz
+poisson_30000/stddev_0.01/dino_30000_stddev0.01.xyz

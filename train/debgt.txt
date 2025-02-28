@@ -1,0 +1,2 @@
+poisson_30000/ground_truth/egea_30000.xyz
+poisson_30000/ground_truth/dino_30000.xyz
